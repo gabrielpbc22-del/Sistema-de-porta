@@ -20,3 +20,5 @@ Botao.MouseClick:Connect(function()
 		Aberto = false
 	end
 end)
+
+--ID usando para Som = 137780443147214
