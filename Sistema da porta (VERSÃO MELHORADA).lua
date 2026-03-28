@@ -1,6 +1,6 @@
 local Botao = script.Parent -- auto explicativo
 local Porta = script.Parent.Parent.Parent.Door -- Porta q o script ira afetar
-local Som = game.SoundService["Button Sound"] -- Som para o bot„o
+local Som = game.SoundService["Button Sound"] -- Som para o bot√£o
 
 local Aberto = false
 local Debounce = false
@@ -25,7 +25,7 @@ Botao.MouseClick:Connect(function()
 		Aberto = false
 	end
 
-	task.wait(0.5) -- Sistema para evitar spam (tive que usar AI para essa funÁ„o)
+	task.wait(0.5) -- Sistema para evitar spam (tive que usar AI para essa fun√ß√£o)
 	Debounce = false
 end)
 
