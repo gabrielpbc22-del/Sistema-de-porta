@@ -7,3 +7,5 @@ Requer um Model que dentro tenha... :
  -ClickDetector
   -Script
 'Door'
+
+LEIA ISSO EM "CODE"
